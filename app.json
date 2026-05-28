@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "LocalFS Manager",
+    "slug": "local-fs-manager-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.student.localfsmanager"
+    }
+  }
+}
